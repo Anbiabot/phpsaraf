@@ -1,7 +1,7 @@
 <?php
 include 'test22.php';
 date_default_timezone_set("Asia/Kabul");
-    $bot_url = "https://api.telegram.org/bot2074467001:AAEOhogdrwkqke9Z9VF-JKFBLxKcOZTYWwc";
+    $bot_url = "https://api.telegram.org/bot2037263618:AAEy0nB53bQ3J5el83epbXEtqlpMeY25DiY";
     
     //-------------------------------------
     
